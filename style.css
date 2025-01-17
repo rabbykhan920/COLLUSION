@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Poppins", serif;   
+}
+/* navbar */
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.navbar h3{
+    font-size: 28px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: -7px;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.nav-links ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.nav-links ul a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.nav-icon i{
+    margin-right: 20px;
+    cursor: pointer;    
+}
+/* navbar */
+/* banner */
+/* .container{
+    background-image: url(img/1\ 1.png); 
+    4
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 745px;
+} */
+
+.banner{
+    
+}
+/* banner */
+/* PHOTO GALLARY */
+  .photos{
+   display: flex;
+   margin-top: 50px;
+   margin-bottom: 50px;
+  }
+
+  .left-photos {
+    
+  }
+
+  .bottom-photos {
+   display: flex; 
+   margin-top: 20px;
+  }
+
+  .b-right {
+    margin-left: 25px;
+  }
+
+  .right-photos{
+    
+  }
+
+  .right-photos img{
+    width: 100%;
+          
+}
+  
+
+/* PHOTO GALLARY */
+
+/* WOMEN’S FASHION */
+
+.W-FASHION{
+    margin-top: 90px;
+}
+
+.heading{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.heading h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.heading p{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.w-items{
+display: flex;
+justify-content: center;
+
+}
+
+.card{
+padding: 10px;
+}
+
+.card-img{
+    margin-bottom: 30px;
+}
+
+.card h5{
+     font-size: 15px;
+     font-weight: 300;
+}
+
+.card p{
+    font-size: 15px;
+     font-weight: 400;
+}
+
+.card span{
+    color: #CF2929;
+    font-size: 15px;
+     font-weight: 400;  
+     margin-left: 25px;
+}
+
+
+/* WOMEN’S FASHION */
+
+/* MEN’S FASHION */
+
+.M-FASHION{
+    margin-top: 90px;
+}
+
+.heading{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.heading h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.heading p{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.m-items{
+display: flex;
+justify-content: center;
+
+}
+
+.card{
+padding: 10px;
+}
+
+.card-img{
+    margin-bottom: 30px;
+}
+
+.card h5{
+     font-size: 15px;
+     font-weight: 300;
+}
+
+.card p{
+    font-size: 15px;
+     font-weight: 400;
+}
+
+.card span{
+    color: #CF2929;
+    font-size: 15px;
+     font-weight: 400;  
+     margin-left: 25px;
+}
+
+
+/* MEN’S FASHION */
+
+
+
+

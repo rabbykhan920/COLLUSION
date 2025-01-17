@@ -1,0 +1,52 @@
+.banner{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 40px;
+}
+
+.b-content ul{
+   display: flex;
+   list-style: none;
+   gap: 15px;
+   text-transform: uppercase;
+}
+.b-content ul a{
+   text-decoration: none;
+   color: #626262;
+   padding: 5px 10px;
+   font-weight: 500;
+}
+.ban-img{
+   text-align: center;
+   font-size: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+        <div class="single-item">
+           <img src="img/x-box.jpg" alt="x-box">
+           <h2>Lorem ipsum dolor sit amet.</h2>
+           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit est assumenda suscipit quibusdam aperiam, asperiores, expedita totam dolorum magnam blanditiis ipsam adipisci quaerat ducimus facilis vel similique? Amet, minima accusamus?</p>
+           <a href="#">join now</a> 
+        </div>
+        <div class="single-item">
+            <img src="img/game.jpg" alt="x-box">
+            <h2>Lorem ipsum dolor sit amet.</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit est assumenda suscipit quibusdam aperiam, asperiores, expedita totam dolorum magnam blanditiis ipsam adipisci quaerat ducimus facilis vel similique? Amet, minima accusamus?</p>
+            <a href="#">join now</a> 
+         </div>
+         <div class="single-item">
+            <img src="img/keyboard.jpg" alt="x-box">
+            <h2>Lorem ipsum dolor sit amet.</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit est assumenda suscipit quibusdam aperiam, asperiores, expedita totam dolorum magnam blanditiis ipsam adipisci quaerat ducimus facilis vel similique? Amet, minima accusamus?</p>
+            <a href="#">join now</a> 
+         </div>
+     </div>
