@@ -247,7 +247,7 @@ footer{
 .f-left h3{
     font-size: 25px;
     font-weight: 700;
-    margin-bottom: 17px;
+    /* margin-bottom: 17px; */
 }
 
 .info{
@@ -265,6 +265,10 @@ footer{
 
 .icons{
 margin-top: 10px;
+}
+
+.icons i{
+    cursor: pointer;
 }
 
 .f-right h3{
